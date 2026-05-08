@@ -1,24 +1,35 @@
 package main
 
-import "strings"
+import (
+	"strings"
+)
 
 func countDistinctWords(messages []string) int {
 	map1:= make(map[string]bool)
 	var totalDistinctWords int
 
-for i := 0; i < len(messages); i++ {
+	i:=0
+for i < len(messages){
 		temp := strings.Fields(messages[i])
-
-		if len(temp)>1 {
-			messages = messages[i+1:]
-			messages= append(temp,messages...)
+	
+		if strings.TrimSpace(messages[i]) == "" {
+			i++
+		continue
 		}
 
-		if _, ok := map1[messages[i]]; !ok {
-    	map1[messages[i]] = true
+		if len(temp)>1 {
+
+			messages = messages[i+1:]
+			messages= append(temp,messages...)
+			i=0
+			
+		}
+
+		if _, ok := map1[strings.ToLower(messages[i])]; !ok {
+    	map1[strings.ToLower(messages[i])] = true
 			totalDistinctWords ++
 		} 
-
+		i++
 	}
 	return totalDistinctWords
 }
