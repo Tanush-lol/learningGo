@@ -22,6 +22,8 @@ for i < len(messages){
 			messages = messages[i+1:]
 			messages= append(temp,messages...)
 			i=0
+			//ahh yes i just did that the most unique way over here.
+			//this might make u go nuts and definetly isn't the favuourable way of writing code, so please don't read this
 			
 		}
 
