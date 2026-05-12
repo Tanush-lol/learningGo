@@ -36,6 +36,7 @@ func Test(t *testing.T) {
 		waitForDBs(test.numDBs, dbChan)
 		for *count != test.numDBs {
 			fmt.Println("...")
+			fmt.Println("count ", *count," test.numDBs ",test.numDBs)
 		}
 		if len(dbChan) == 0 && *count == test.numDBs {
 			passed++
