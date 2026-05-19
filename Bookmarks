@@ -1,0 +1,309 @@
+{
+   "checksum": "8c5b136e77e46fb7dd1f041ddc6f57ca",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13420317350299610",
+            "date_last_used": "13420362443303102",
+            "guid": "403e8f09-cb22-4835-85ac-e8b2f155aee9",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CAT",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/d/121TJowkkWLeaPSAYp5Cokg0If9iwBtFDF6CZ5JWIYO0/htmlview?pli=1"
+         }, {
+            "children": [ {
+               "date_added": "13421788036611656",
+               "date_last_used": "0",
+               "guid": "d48d074b-3677-4823-882b-8e5c111d8480",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Append | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/6b3853e2-5ee7-4322-bb77-a74d4375acb7"
+            }, {
+               "date_added": "13421792246732478",
+               "date_last_used": "0",
+               "guid": "7c73506c-44b7-49b2-8e36-4681510b3599",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Slice of Slices | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/ce8736ca-c203-4cb5-ace0-1c5294f98941"
+            }, {
+               "date_added": "13422740317690202",
+               "date_last_used": "0",
+               "guid": "f73d0f89-0021-4185-aa16-c77c798be3e5",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Nil Pointers | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/88624902-f053-41da-b04a-6563d3599323"
+            }, {
+               "date_added": "13422740340758849",
+               "date_last_used": "0",
+               "guid": "ecaa800a-b467-4d46-82f0-b3cbf1bfe7ed",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Password Strength | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/0e0b2f2c-141d-4de8-a1e0-1fbac7f5d60f"
+            }, {
+               "date_added": "13422742527186989",
+               "date_last_used": "0",
+               "guid": "c6fc5014-2bdd-4b48-a789-105233015529",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Pointer Performance | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/53a8b432-2bfa-4a59-9890-fe00c9580500"
+            }, {
+               "date_added": "13422828169688049",
+               "date_last_used": "0",
+               "guid": "a055b1a9-a76f-4093-95e6-d030d617f04b",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Package Naming | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/35cde4a3-07d6-4f5a-98be-27677add6039"
+            }, {
+               "date_added": "13422879853045383",
+               "date_last_used": "0",
+               "guid": "f15345a7-9f6b-483a-b4af-d4e1cd7c1b29",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Update Users | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/cdc70166-9a08-4536-a7f3-b497ea23a056"
+            }, {
+               "date_added": "13422879857832357",
+               "date_last_used": "0",
+               "guid": "1bd40123-1bb7-4c96-9092-ff6ea4a6974c",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Send Message | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/bdaf1d5b-5471-49ed-8a73-30a09b9140ef"
+            }, {
+               "date_added": "13422879864439947",
+               "date_last_used": "0",
+               "guid": "d389c614-416e-4ffc-bdd8-15df8f316bbf",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Interfaces in Go | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/efcafed8-c0ba-4efb-a6e2-88db3c8a0733"
+            }, {
+               "date_added": "13422879899503621",
+               "date_last_used": "0",
+               "guid": "841a670c-2505-476f-9402-8d4413732346",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Message Formatter | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/4988b18c-4da4-4f55-84fb-25096dcc66c2"
+            }, {
+               "date_added": "13422881113759104",
+               "date_last_used": "0",
+               "guid": "9f6a5170-1ff9-448e-add3-3f5ca4c42991",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Modules | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/ed9a0943-6ade-4fc2-9e60-ce712bee85c3"
+            }, {
+               "date_added": "13422891227941680",
+               "date_last_used": "0",
+               "guid": "58323139-6a21-4cd1-aff6-e8a4279254a7",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Remote Packages | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/9c49ad86-aee5-4f56-8df2-59ae5cdb194d"
+            }, {
+               "date_added": "13422891376503608",
+               "date_last_used": "0",
+               "guid": "321a51e6-2d29-41f2-b5b2-6f65567d78a0",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Clean Packages | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/665767ab-dab2-48e5-88b7-1534d24553f8"
+            }, {
+               "date_added": "13422892261270385",
+               "date_last_used": "0",
+               "guid": "e197bad4-e723-4f58-ad24-edc9c28af8aa",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Passing Variables by Value | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/351c4674-1c31-4148-b98f-1179dbcaac81"
+            }, {
+               "date_added": "13422892274801093",
+               "date_last_used": "0",
+               "guid": "23698d5a-f1c7-468b-b379-373e1775c33a",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Anonymous Functions | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/b79955b7-eccf-4816-8490-1dd700f13c8e"
+            }, {
+               "date_added": "13422892292007862",
+               "date_last_used": "0",
+               "guid": "88109ac3-87bd-48c7-afb7-198fa7d3cd1a",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Currying | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/00e74458-f6e2-4f14-bc04-5ad5112551d6"
+            }, {
+               "date_added": "13422911314539907",
+               "date_last_used": "0",
+               "guid": "16611372-5d14-429a-a100-bfb294d2884d",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Channels | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/04984711-09c4-4020-ac36-6d4214012d34"
+            }, {
+               "date_added": "13423345577321530",
+               "date_last_used": "0",
+               "guid": "934b1f41-a615-4932-a7c1-b25599479b3f",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Ping Pong | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/275ca1c0-2219-46e7-b530-a773268de5c8"
+            }, {
+               "date_added": "13423516135642810",
+               "date_last_used": "0",
+               "guid": "df8fcfe8-fffa-47d0-88e3-bc3c138db70d",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Mutex Review | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/58d7347d-07c7-4752-b9b2-49ae8688c79a"
+            }, {
+               "date_added": "13423580074288213",
+               "date_last_used": "0",
+               "guid": "a3f84df5-7049-4771-9ca5-63a4bd9c7a69",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Constraints | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/371d69ad-367e-4b7a-bd2d-a7f06a4ff0bd"
+            }, {
+               "date_added": "13423582453232444",
+               "date_last_used": "0",
+               "guid": "d6e9cb78-9aa2-4ef7-8e06-5e052540e3f9",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learn Go: Parametric Constraints | Boot.dev",
+               "type": "url",
+               "url": "https://www.boot.dev/lessons/4a9635d1-9bd9-40b4-81b7-d3662aa3889c"
+            } ],
+            "date_added": "13421788054010942",
+            "date_last_used": "0",
+            "date_modified": "13423661245867680",
+            "guid": "120dddf4-016d-467d-90ef-f9973f306947",
+            "id": "8",
+            "name": "golang redos",
+            "type": "folder"
+         }, {
+            "date_added": "13422559063377596",
+            "date_last_used": "0",
+            "guid": "c5e046f2-ca9e-4294-8b4e-53c6dd719c16",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Cyberpunk: Edgerunners Anime Online | AniGo",
+            "type": "url",
+            "url": "https://anigo.to/watch/cyberpunk-edgerunners-xm34#ep=1"
+         }, {
+            "date_added": "13422568459391351",
+            "date_last_used": "13422909358770975",
+            "guid": "14e4890d-a9f7-4c9e-8d7f-68f93e13a0aa",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "os",
+            "type": "url",
+            "url": "https://summerofcode.withgoogle.com/programs/2026/organizations/nixos-foundation"
+         } ],
+         "date_added": "13420312046200376",
+         "date_last_used": "0",
+         "date_modified": "13422740317690202",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13420312046200376",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13420312046200376",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
